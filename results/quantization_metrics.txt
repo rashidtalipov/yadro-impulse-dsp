@@ -1,0 +1,5 @@
+Quantization error analysis
+Max absolute error: 3.05176e-05
+Mean error: 1.52588e-07
+RMS error: 8.36222e-06
+SNR (dB): 98.5433
